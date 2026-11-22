@@ -1,0 +1,10 @@
+{
+  "ccp_alpha": 0.02,
+  "pruned_mean_cv_macro_f1": 0.9632780291603822,
+  "unpruned_test_accuracy": 0.8918918918918919,
+  "pruned_test_accuracy": 0.8918918918918919,
+  "unpruned_test_macro_f1": 0.8917748917748919,
+  "pruned_test_macro_f1": 0.8917748917748919,
+  "unpruned_leaves": 9,
+  "pruned_leaves": 4
+}

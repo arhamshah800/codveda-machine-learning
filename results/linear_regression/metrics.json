@@ -1,0 +1,9 @@
+{
+  "r2": 0.3707569232254778,
+  "mse_thousand_dollars_squared": 46.144775347317264,
+  "mean_baseline_mse": 75.04543037399255,
+  "slope_thousand_dollars_per_room": 9.348301406497727,
+  "intercept_thousand_dollars": -36.24631889813795,
+  "train_rows": 404,
+  "test_rows": 102
+}
